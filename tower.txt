@@ -1,0 +1,68 @@
+Spinach
+Mushrooms
+Lettuce 
+Peppers
+Apples
+Bananas 
+Oranges 
+Tomatoes 
+Broccoli 
+Cauliflower 
+Onions
+Carrots
+Cucumbers
+Kidney Beans 
+Chickpeas
+Edamame Beans 
+Milk (Nonfat)
+Milk (2%)
+Milk (Whole)
+Cream
+Soy Milk (Plain)
+Soy Milk (Chocolate)
+Greek Yogurt
+Cottage Cheese
+Cheddar Cheese
+American Cheese
+Swiss Cheese 
+Pepperjack Cheese
+Ice Cream
+Margarine
+Cream Cheese
+Vegan Smart Balance 
+Dill
+Zaatar
+Red Pepper Flakes
+Kosher Salt
+Cracked Black Pepper
+Italian Seasoning
+Cumin
+Rosemary
+Tabasco Sauce
+Worcestershire Sauce
+Sriracha Sauce 
+Hummus
+Sunflower Butter
+Olive Oil
+Balsamic Vinegar
+Soy Sauce
+Jam
+Cereal (Captain Crunch)
+Cereal (Honey Nut Cheerios)
+Honey Granola
+Whole-grain bread
+Spinach Tortilla
+Wheat Tortilla
+Gluten Free Bread
+Gluten Free Bagel
+White Bread
+Wheat Bread
+Bagel
+Cinnamon Raisin Bread
+Pita Chips 
+Turkey
+Ham
+Salami
+Roast Beef
+Chicken Salad
+Egg Salad
